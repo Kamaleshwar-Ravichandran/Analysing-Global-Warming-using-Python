@@ -1,2 +1,2 @@
 # BANA8090
-Python Project
+This repository consists of final python project code and corresponding datasets used.
